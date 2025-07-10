@@ -5,10 +5,13 @@ This repository documents my journey into digital hardware design using Verilog 
 ## 📂 Project Structure
 
 verilog-hardware-modeling/
-└── basic_gates/
-├── and_gate.v # Verilog module for AND gate
-├── and_gate_tb.v # Testbench for AND gate
-└── waveforms/ # VCD files or waveform screenshots
+basic-gates/
+├── gate_name.v         // Verilog module
+├── gate_name_tb.v      // Testbench
+├── waveforms/          // GTKWave output files
+└── README.md
+Includes AND, OR, NOT, NAND, NOR, XOR, XNOR gate implementations with testbenches and waveform outputs.
+
 
 ## 🔧 Tools Used
 
@@ -19,9 +22,10 @@ verilog-hardware-modeling/
 
 **Example (for AND gate):**
 
-```bash
+Command Prompt:
+
 iverilog -o and_gate_out and_gate.v and_gate_tb.v
 vvp and_gate_out
-gtkwave dump.vcd
+gtkwave dump.vcd     // For generation of Waveform
 
 
