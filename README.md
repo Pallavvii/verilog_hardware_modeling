@@ -2,7 +2,7 @@
 
 This repository documents my journey into digital hardware design using Verilog HDL. It includes a growing collection of modules, testbenches, and simulation results — starting with basic logic gates and progressing toward more complex combinational and sequential circuits.
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 verilog-hardware-modeling/
 basic-gates/
