@@ -24,6 +24,4 @@ iverilog -o and_gate_out and_gate.v and_gate_tb.v
 vvp and_gate_out
 gtkwave dump.vcd
 
-Make sure your testbench includes:
-$dumpfile("dump.vcd");
-$dumpvars(0, <top_module_name>);
+
