@@ -16,8 +16,8 @@ verilog-hardware-modeling/
 
 ## 🔧 Tools Used
 
-- [Icarus Verilog](http://iverilog.icarus.com/) — for compiling and simulating
-- [GTKWave](http://gtkwave.sourceforge.net/) — for viewing waveforms
+- [Icarus Verilog] — for compiling and simulating
+- [GTKWave] — for viewing waveforms
 
 ## ▶️ How to Simulate
 
