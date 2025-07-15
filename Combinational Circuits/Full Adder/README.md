@@ -27,8 +27,7 @@ A **Full Adder** is a combinational circuit that performs the addition of three 
 
 ## 🖼️ Logic Diagram
 
-![Full Adder Logic Diagram](Full Adder logic diagram.jpg)
-
+![Logic Diagram](Full%20Adder%20logic%20diagram.jpg)
 
 ✅ Truth Table
 
@@ -45,4 +44,5 @@ A **Full Adder** is a combinational circuit that performs the addition of three 
 
 ## 🚀 How to Simulate
 
-![Terminal Commands](full_adder commands.png)
+![Terminal Commands](full_adder%20commands.png)
+
