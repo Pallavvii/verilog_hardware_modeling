@@ -22,7 +22,7 @@ A Half Adder is a combinational circuit that performs the addition of two single
 ---
 
 ## 🖼️ Logic Diagram
-![Half Adder Logic Diagram](Half_adder_logic_diagram.png)
+![Half Adder Logic Diagram](Half_adder_logic_diagram.jpeg)
 ## ✅ Truth Table
 
 | A | B | Sum (A ⊕ B) | Carry (A ⋅ B) |
