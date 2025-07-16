@@ -52,5 +52,7 @@ It is used in digital circuits to subtract multi-bit binary numbers, where Bin a
 ### ✅ Using Icarus Verilog
 
 iverilog -o full_subtractor full_subtractor_dataflow.v full_subtractor_tb.v
+
 vvp full_subtractor
+
 gtkwave full_subtractor.vcd
