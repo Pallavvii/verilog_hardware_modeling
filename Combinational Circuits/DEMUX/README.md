@@ -18,6 +18,9 @@ This folder contains Verilog implementations of **1:4** and **1:8 Demultiplexers
 |   1   |    11      |   1000     |
 |   0   |   Any      |   0000     |
 
+### Logic Diagram (1:4 Demux)
+![1:4 Demux](demultiplexer_1to4.jpg)
+
 ##  1:8 Demultiplexer
 
 - **Inputs**: `din`, `sel[2:0]`
@@ -39,6 +42,10 @@ This folder contains Verilog implementations of **1:4** and **1:8 Demultiplexers
 |   1   |   110      | 01000000       |
 |   1   |   111      | 10000000       |
 |   0   |   Any      | 00000000       |
+
+### Logic Diagram (1:8 Demux)
+
+![1:8 Demux](Demultiplexer_1to8.png)
 
 ## Terminal Commands
 ![Command Prompt](demux_commands.png)
