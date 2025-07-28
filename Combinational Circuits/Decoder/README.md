@@ -53,7 +53,7 @@ The 3:8 decoder takes a 3-bit input and one enable signal. When enabled, it acti
 
 ###  Logic Diagram
 
-![logic diagram](decoder3to8_logic.jpg)
+![logic diagram](decoder3to8_logic.png)
 
 ##  Terminal Commands
 
