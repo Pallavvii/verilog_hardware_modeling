@@ -1,0 +1,102 @@
+$date
+	Thu Oct 02 22:56:50 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module d_ff_tb $end
+$var wire 1 ! Q $end
+$var wire 1 " Qbar $end
+$var reg 1 # CLK $end
+$var reg 1 $ D $end
+$scope module uut $end
+$var wire 1 % CLK $end
+$var wire 1 & D $end
+$var wire 1 " Qbar $end
+$var reg 1 ' Q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x'
+0&
+0%
+0$
+0#
+x"
+x!
+$end
+#5
+1"
+0'
+0!
+1#
+1%
+#10
+0#
+0%
+#12
+1$
+1&
+#15
+0"
+1'
+1!
+1#
+1%
+#20
+0#
+0%
+#22
+0$
+0&
+#25
+1"
+0'
+0!
+1#
+1%
+#30
+0#
+0%
+#32
+1$
+1&
+#35
+0"
+1'
+1!
+1#
+1%
+#40
+0#
+0%
+#45
+1#
+1%
+#50
+0#
+0%
+#52
+0$
+0&
+#55
+1"
+0'
+0!
+1#
+1%
+#60
+0#
+0%
+#65
+1#
+1%
+#70
+0#
+0%
+#72
