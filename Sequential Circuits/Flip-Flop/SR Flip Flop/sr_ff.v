@@ -1,4 +1,4 @@
-module sr_flipflop (
+module sr_ff (
     input S,       // Set
     input R,       // Reset
     input CLK,     // Clock
@@ -6,7 +6,7 @@ module sr_flipflop (
     output Qbar    // Complement output
 );
 
-assign Qbar = ~Q; // Complement output
+assign Qbar = ~Q; 
 
 always @(posedge CLK) begin
     case ({S,R})
